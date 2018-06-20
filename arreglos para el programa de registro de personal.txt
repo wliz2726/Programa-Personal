@@ -1,0 +1,7 @@
+Para el programa de registro de personal
+
+1- agragar el formulario consulta
+2- adaptarlo para la IBG
+
+3-buscar por nombre
+4-status de miembro

@@ -1,0 +1,4 @@
+Registro de Estudiantes
+
+*Cuando cierro el programa explota 
+*

@@ -1,0 +1,15 @@
+E:\POO\Prog_Tutorial_C#\DATA BASE\Proyecto empresa\ProyectoPersonal\bin\Debug\ProyectoPersonal.exe.config
+E:\POO\Prog_Tutorial_C#\DATA BASE\Proyecto empresa\ProyectoPersonal\bin\Debug\ProyectoPersonal.exe
+E:\POO\Prog_Tutorial_C#\DATA BASE\Proyecto empresa\ProyectoPersonal\bin\Debug\ProyectoPersonal.pdb
+E:\POO\Prog_Tutorial_C#\DATA BASE\Proyecto empresa\ProyectoPersonal\obj\Debug\ProyectoPersonal.csprojResolveAssemblyReference.cache
+E:\POO\Prog_Tutorial_C#\DATA BASE\Proyecto empresa\ProyectoPersonal\obj\Debug\ProyectoPersonal.Delete_Form.resources
+E:\POO\Prog_Tutorial_C#\DATA BASE\Proyecto empresa\ProyectoPersonal\obj\Debug\ProyectoPersonal.First_Form.resources
+E:\POO\Prog_Tutorial_C#\DATA BASE\Proyecto empresa\ProyectoPersonal\obj\Debug\ProyectoPersonal.list_registry_Form.resources
+E:\POO\Prog_Tutorial_C#\DATA BASE\Proyecto empresa\ProyectoPersonal\obj\Debug\ProyectoPersonal.new_add_Form.resources
+E:\POO\Prog_Tutorial_C#\DATA BASE\Proyecto empresa\ProyectoPersonal\obj\Debug\ProyectoPersonal.Properties.Resources.resources
+E:\POO\Prog_Tutorial_C#\DATA BASE\Proyecto empresa\ProyectoPersonal\obj\Debug\ProyectoPersonal.csproj.GenerateResource.Cache
+E:\POO\Prog_Tutorial_C#\DATA BASE\Proyecto empresa\ProyectoPersonal\obj\Debug\ProyectoPersonal.csproj.CoreCompileInputs.cache
+E:\POO\Prog_Tutorial_C#\DATA BASE\Proyecto empresa\ProyectoPersonal\obj\Debug\ProyectoPersonal.exe
+E:\POO\Prog_Tutorial_C#\DATA BASE\Proyecto empresa\ProyectoPersonal\obj\Debug\ProyectoPersonal.pdb
+E:\POO\Prog_Tutorial_C#\DATA BASE\Proyecto empresa\ProyectoPersonal\obj\Debug\ProyectoPersonal.modification_Form.resources
+E:\POO\Prog_Tutorial_C#\DATA BASE\Proyecto empresa\ProyectoPersonal\bin\Debug\BBDDmaestra.accdb
